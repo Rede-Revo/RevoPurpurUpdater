@@ -3,5 +3,5 @@ version: '1.0'
 main: org.thiagogebrim.revoPurpurUpdater.RevoPurpurUpdater
 api-version: '1.21'
 load: POSTWORLD
-description: Um plugin que atualiza automaticamente o Purpur
+description: Um plugin que atualiza automaticamente o Purpur, ProtocolLib e o LuckPerms
 author: thiagogebrim
