@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 public class PurpurUpdater {
 
     private static final String PURPUR_API_URL = "https://api.purpurmc.org/v2/purpur/";
-    private static final String MC_VERSION = "1.21.5";
+    private static final String MC_VERSION = "1.21.6";
     private static final String SERVER_JAR_NAME = "server.jar";
 
     public static void updatePurpur(Logger logger) {
